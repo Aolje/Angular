@@ -24,6 +24,7 @@ const autor = 'Fulano';
 const { volumen, segundo, cancion, detalles: { autor: autorDetalle } } = reproductor;
 // const { autor } = detalles;  Alternativa 1
 // const { volumen, segundo, cancion, detalles: { autor: autorDetalle <-/apodo o subnombre/ } } = reproductor; Alternativa 2
+ 
 
 // console.log('EL volumen actual de: ', volumen);
 // console.log('El segundo actual de: ', segundo);
